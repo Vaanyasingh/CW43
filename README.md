@@ -3,7 +3,7 @@ Title: Flappy bird
 
 Goal: Cover maximum distance with the bird without touching the obstacles or the ground
 
-Story: 
+Story: The blue bird is migrating back to it's spawning location, but as the humans have built more and more infrastructure, the bird has to evade the structures that are like obstacles on the route.
 
 Playing characters: The bird
 
